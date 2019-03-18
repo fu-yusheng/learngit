@@ -1,2 +1,3 @@
 today review what i have learn
 git is good a tool
+git tracks changes
